@@ -8,5 +8,4 @@ cout<<"cc                  +++++++++++++          ++++++++++++       \n";
 cout<<"cc                       ++                     ++            \n";
 cout<<"cccccccc                 ++                     ++            \n";
 return 0;
-
 }
